@@ -1,8 +1,8 @@
-package main.java.org.compliance.domain;
+package org.compliance.domain;
 
 import java.util.List;
 
-public record ComplianceScreening (List<SanctionIdentity> sanctions, AMLProfile amlProfile){
+public record ComplianceScreening (List<SanctionIdentity> sanctions, AmlProfile amlProfile){
     public record SanctionIdentity(
         String name,
         String sourceList,
@@ -18,7 +18,7 @@ public record ComplianceScreening (List<SanctionIdentity> sanctions, AMLProfile 
         boolean isPepPresent,
         List<PoliticalExposure> exposures
     ){
-        public record PoliticalExposures(
+        public record PoliticalExposure(
             String personName,
             String publicOffice
         ) {}

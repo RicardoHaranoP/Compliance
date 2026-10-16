@@ -1,4 +1,4 @@
-package main.java.org.compliance.domain;
+package org.compliance.domain;
 
 import java.util.UUID;
 
