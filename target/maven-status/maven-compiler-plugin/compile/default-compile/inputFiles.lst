@@ -1,3 +1,4 @@
+C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\application\AnalyzeCompanyRiskUseCase.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\Compliance.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\domain\Company.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\domain\CompanyId.java
@@ -8,4 +9,7 @@ C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\c
 C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\domain\RiskAssessmentStatus.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\domain\RiskLevel.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\infrastructure\persistence\entity\CompanyEntity.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\infrastructure\persistence\event\CompanyEventHandler.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\infrastructure\persistence\repository\CompanyEntityRepository.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\infrastructure\persistence\repository\InMemoryCompanyRepository.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\compliance\src\main\java\org\compliance\infrastructure\rest\client\SanctionClient.java
